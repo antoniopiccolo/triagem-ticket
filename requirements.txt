@@ -1,0 +1,4 @@
+ollama
+pandas
+pydantic>=2
+scikit-learn

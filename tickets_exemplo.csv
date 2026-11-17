@@ -1,0 +1,13 @@
+mensagem,categoria_real,prioridade_real,sentimento_real
+"Meu boleto de março veio com valor errado e vence amanhã, preciso de uma segunda via urgente.",Financeiro,Alta,Negativo
+"Não consigo fazer login, aparece erro 500 desde ontem e minha equipe inteira está parada.",Suporte Técnico,Urgente,Negativo
+"Como faço para alterar o e-mail cadastrado na minha conta?",Dúvida Geral,Baixa,Neutro
+"Adorei o novo painel! Ficou muito mais rápido e fácil de usar.",Outros,Baixa,Positivo
+"Fui cobrado duas vezes na fatura deste mês. Quero o estorno imediatamente.",Financeiro,Urgente,Negativo
+"A exportação de relatórios em PDF demora muito, mas consigo exportar em CSV.",Suporte Técnico,Média,Negativo
+"Vocês emitem nota fiscal para pessoa física?",Dúvida Geral,Baixa,Neutro
+"O aplicativo trava toda vez que tento anexar uma foto ao chamado.",Suporte Técnico,Alta,Negativo
+"Gostaria de saber se existe desconto para pagamento anual.",Financeiro,Baixa,Neutro
+"Vocês poderiam adicionar modo escuro? Seria ótimo para uso noturno.",Outros,Baixa,Positivo
+"Perdi todos os dados do projeto depois da atualização de ontem, preciso de ajuda agora!",Suporte Técnico,Urgente,Negativo
+"Qual o horário de atendimento do suporte por telefone?",Dúvida Geral,Baixa,Neutro
