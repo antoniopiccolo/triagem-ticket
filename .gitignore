@@ -4,3 +4,4 @@ venv/
 *.pyc
 .env
 tickets_brutos.csv
+tickets_triados.csv

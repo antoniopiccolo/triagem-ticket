@@ -1,0 +1,13 @@
+﻿mensagem,categoria_real,prioridade_real,sentimento_real,categoria,prioridade,sentimento,resumo,status,tentativas,erro
+"Meu boleto de março veio com valor errado e vence amanhã, preciso de uma segunda via urgente.",Financeiro,Alta,Negativo,Financeiro,Urgente,Negativo,"Boleto com valor incorreto, precisa de estorno urgente",ok,1,
+"Não consigo fazer login, aparece erro 500 desde ontem e minha equipe inteira está parada.",Suporte Técnico,Urgente,Negativo,Suporte Técnico,Alta,Negativo,"Erro 500 impedindo login, afeta equipe",ok,1,
+Como faço para alterar o e-mail cadastrado na minha conta?,Dúvida Geral,Baixa,Neutro,Dúvida Geral,Média,Neutro,Pergunta sobre alterar e-mail cadastrado,ok,1,
+Adorei o novo painel! Ficou muito mais rápido e fácil de usar.,Outros,Baixa,Positivo,Dúvida Geral,Baixa,Positivo,Avaliação positiva do novo painel,ok,1,
+Fui cobrado duas vezes na fatura deste mês. Quero o estorno imediatamente.,Financeiro,Urgente,Negativo,Financeiro,Urgente,Negativo,"Cobrança duplicada, pede estorno imediato",ok,1,
+"A exportação de relatórios em PDF demora muito, mas consigo exportar em CSV.",Suporte Técnico,Média,Negativo,Suporte Técnico,Média,Neutro,"Exportação em PDF lenta, exportação em CSV funciona",ok,1,
+Vocês emitem nota fiscal para pessoa física?,Dúvida Geral,Baixa,Neutro,Financeiro,Média,Neutro,Pergunta sobre emissão de nota fiscal para pessoa física,ok,1,
+O aplicativo trava toda vez que tento anexar uma foto ao chamado.,Suporte Técnico,Alta,Negativo,Suporte Técnico,Alta,Negativo,App trava ao anexar foto ao chamado,ok,1,
+Gostaria de saber se existe desconto para pagamento anual.,Financeiro,Baixa,Neutro,Financeiro,Média,Neutro,Pergunta sobre desconto para pagamento anual,ok,1,
+Vocês poderiam adicionar modo escuro? Seria ótimo para uso noturno.,Outros,Baixa,Positivo,Dúvida Geral,Média,Positivo,Sugere adição de modo escuro para uso noturno,ok,1,
+"Perdi todos os dados do projeto depois da atualização de ontem, preciso de ajuda agora!",Suporte Técnico,Urgente,Negativo,Suporte Técnico,Urgente,Negativo,"Perdeu dados do projeto após atualização, precisa de ajuda urgente",ok,1,
+Qual o horário de atendimento do suporte por telefone?,Dúvida Geral,Baixa,Neutro,Dúvida Geral,Média,Neutro,Pergunta sobre horário de atendimento por telefone,ok,1,

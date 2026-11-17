@@ -32,7 +32,7 @@ Critérios de prioridade:
 - Média: problema incômodo que não impede o uso.
 - Baixa: dúvidas simples, elogios e sugestões."""
 
-# Exemplos (few-shot): ajudam modelos pequenos a manter o formato e os critérios.
+# Exemplos few-shot: ajudam modelos pequenos a manter o formato e os critérios.
 EXEMPLOS = [
     (
         "Fui cobrado duas vezes no cartão este mês e preciso do estorno hoje!",
